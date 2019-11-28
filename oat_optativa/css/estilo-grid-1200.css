@@ -1,0 +1,51 @@
+body,html{
+	height: 100%;
+	background-color: #AFEEEE;
+}
+
+#header{
+	text-align: center;
+	height: 20%;
+	border: 1px solid #000;
+	margin: 3px;
+	background-color: #00CED1;
+	color: #00FFFF;
+	background-image: url("https://educacaoinfantil.aix.com.br/wp-content/uploads/2017/12/144182-por-que-a-relacao-entre-escola-e-comunidade-e-importante-entenda.jpg");
+}
+
+#main{
+	border: 1px solid #000;
+	display: grid;
+	grid-column-gap: 1%;
+	margin: 3px;
+	text-align: center;
+	padding: 5px 7% 5px;
+}
+
+#main #content{
+	border: 1px solid #000;
+	margin: 3px;
+	background-color: #40E0D0;
+}
+
+#menu{
+	height: 7%;
+	border: 1px solid #000;
+	margin: 3px;
+	background-color: #48D1CC;
+}
+
+#menu ul{
+	display: flex;
+	list-style: none;
+	padding: 0px;
+}
+
+#menu ul li{
+	border: 1px solid #000;
+	margin: 3px;
+	padding: 5px;
+}
+ #formulario{
+ 	color: #2F4F4F;
+}
